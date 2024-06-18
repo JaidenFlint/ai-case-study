@@ -22,3 +22,33 @@ Compared to other companies in this field, Tesla is indeed the most successful s
 ## Recommendations
 
 * Tesla would greatly improve when it comes to variety if they transintioned into the at home services such as companies like google and apple who have integrated into devices such as ring doorbell, alexa/google assist units, and even security cameras. Not a lot of people can afford Tesla cars but one thing people will always be is home, so providing technology and devices that are easily accessible while at home would benefit a widespread of users around the globe. This would be very convenient with the way Telsa operates since they will already be using AI to further advance into this new world of at home innvoation.
+
+
+### Sources
+
+https://www.timesnownews.com/auto/electric-vehicles/elon-musk-announces-10-billion-investment-in-ai-to-enhance-self-driving-technology-article-109685458
+
+https://medium.com/the-quantified-world/impact-of-teslas-innovations-on-the-global-auto-industry-5cb9e88b2e6f
+
+https://www.investopedia.com/ask/answers/120314/who-are-teslas-tsla-main-competitors.asp
+
+https://www.investopedia.com/articles/personal-finance/061915/story-behind-teslas-success.asp
+
+https://www.tesla.com/elon-musk
+
+https://www.tesla.com/blog/mission-tesla
+
+https://qz.com/elon-musks-spacex-and-tesla-get-far-more-government-mon-1850332884#:~:text=Tesla%20has%20been%20supported%20by%20government%20subsidies&text=Notably%2C%20the%20auto%20company%20received,benefits%20at%20nearly%20$3%20billion.
+
+https://tracxn.com/d/companies/tesla/__z7iBA0j3piGy5SjdQFAYgeC06G3Q2ntcoN1vYCcRsVg#:~:text=Overall%2C%20Tesla%20and%20its%20competitors,funding%20rounds%20involving%20529%20investors.
+
+https://www.investopedia.com/tesla-being-investigated-over-concerns-about-autopilot-recall-fix-8639509#:~:text=The%20carmaker%20said%20it%20had,1
+
+https://www.pdfagile.com/blog/tesla-segmentation-targeting-and-positioning
+
+https://www.technologyreview.com/2023/06/15/1074775/ev-chargers-tesla-nacs-superchargers/#:~:text=Charging%20up&text=In%20the%20US%2C%20it%20is,Globally%2C%20Tesla%20operates%2045%2C000%20superchargers.
+
+https://www.cnn.com/2024/04/03/cars/china-tesla-byd-competition-hnk-intl-dg/index.html#:~:text=Tesla%20is%20the%20most%20valuable%20car%20company%20in%20the%20world&text=Second%20place%20Toyota%2C%20while%20comfortably,can%20dethrone%20the%20American%20giant.&text=Note%3A%20Data%20as%20of%20March%2028%2C%202024.&text=In%202023%2C%20Tesla%20sold%20around%20230%2C000%20more%20cars%20than%20BYD.
+
+elon-musk-puts-down-10-million-to-fight-skynet
+
