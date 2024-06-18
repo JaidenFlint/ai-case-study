@@ -1,6 +1,6 @@
-# ai-case-study
+ai-case-study
 
-# TITLE
+# What is Tesla? A.I. Contribution within Tesla.
 
 ## Overview and Origin
 
